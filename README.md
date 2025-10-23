@@ -485,6 +485,4 @@ pip install diffusers accelerate
 
 **⭐ Star this repository if you found it helpful!**
 
-Made with passion and dedication by [Your Name]
-
 </div>
