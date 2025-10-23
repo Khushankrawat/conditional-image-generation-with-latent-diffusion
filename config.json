@@ -1,0 +1,23 @@
+{
+  "api": {
+    "host": "localhost",
+    "port": 5001,
+    "debug": true
+  },
+  "web": {
+    "host": "localhost", 
+    "port": 8080
+  },
+  "model": {
+    "device": "mps",
+    "default_inf_steps": 500,
+    "max_images": 8,
+    "min_inf_steps": 50,
+    "max_inf_steps": 500
+  },
+  "paths": {
+    "models_dir": "models",
+    "output_dir": "output",
+    "jobs_dir": "jobs"
+  }
+}
